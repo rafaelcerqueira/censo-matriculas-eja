@@ -1,7 +1,25 @@
-﻿Localidade da Escola;País;Região;UF;Município;Matrículas;Categoria 1;Categoria 1 - Ordenação;Etapa de Ensino - Superior;Etapa de Ensino
-Brasil;Brasil;;;;12220;Amarela;4;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;547845;Branca;1;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;25966;Indígena;5;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;1728784;Não declarada;10;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;1335346;Parda;3;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;180046;Preta;2;Educação Básica;Educação de Jovens e Adultos - EJA
+﻿Localidade da Escola;País;Região;UF;Município;Matrículas;Categoria 1;Categoria 1 - Ordenação;Categoria 2;Categoria 2 - Ordenação;Etapa de Ensino - Superior;Etapa de Ensino
+Brasil;Brasil;;;;5907;Amarela;4;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;88;Amarela;4;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;5543;Amarela;4;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;682;Amarela;4;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;289268;Branca;1;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;2777;Branca;1;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;204785;Branca;1;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;51015;Branca;1;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;12610;Indígena;5;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;112;Indígena;5;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;12994;Indígena;5;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;250;Indígena;5;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;978124;Não declarada;10;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;6303;Não declarada;10;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;652121;Não declarada;10;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;92236;Não declarada;10;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;614669;Parda;3;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;4357;Parda;3;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;669934;Parda;3;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;46386;Parda;3;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;85448;Preta;2;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;874;Preta;2;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;86831;Preta;2;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;6893;Preta;2;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA

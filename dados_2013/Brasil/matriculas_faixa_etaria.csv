@@ -1,9 +1,33 @@
-﻿Localidade da Escola;País;Região;UF;Município;Matrículas;Categoria 1;Categoria 1 - Ordenação;Etapa de Ensino - Superior;Etapa de Ensino
-Brasil;Brasil;;;;690742;15 a 17 anos;6002;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;582888;18 a 19 anos;6003;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;683570;20 a 24 anos;6004;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;411311;25 a 29 anos;6005;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;373411;30 a 34 anos;6006;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;319551;35 a 39 anos;6007;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;716578;40 anos ou mais;6008;Educação Básica;Educação de Jovens e Adultos - EJA
-Brasil;Brasil;;;;52156;Até 14 anos;6001;Educação Básica;Educação de Jovens e Adultos - EJA
+﻿Localidade da Escola;País;Região;UF;Município;Matrículas;Categoria 1;Categoria 1 - Ordenação;Categoria 2;Categoria 2 - Ordenação;Etapa de Ensino - Superior;Etapa de Ensino
+Brasil;Brasil;;;;252466;15 a 17 anos;6002;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;224;15 a 17 anos;6002;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;415862;15 a 17 anos;6002;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;22190;15 a 17 anos;6002;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;386997;18 a 19 anos;6003;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;1048;18 a 19 anos;6003;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;157450;18 a 19 anos;6003;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;37393;18 a 19 anos;6003;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;467949;20 a 24 anos;6004;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;3660;20 a 24 anos;6004;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;170647;20 a 24 anos;6004;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;41314;20 a 24 anos;6004;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;244630;25 a 29 anos;6005;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;2661;25 a 29 anos;6005;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;138915;25 a 29 anos;6005;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;25105;25 a 29 anos;6005;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;199433;30 a 34 anos;6006;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;2345;30 a 34 anos;6006;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;150186;30 a 34 anos;6006;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;21447;30 a 34 anos;6006;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;159906;35 a 39 anos;6007;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;1592;35 a 39 anos;6007;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;141370;35 a 39 anos;6007;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;16683;35 a 39 anos;6007;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;264268;40 anos ou mais;6008;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;2975;40 anos ou mais;6008;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;417397;40 anos ou mais;6008;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;31938;40 anos ou mais;6008;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;10377;Até 14 anos;6001;Estadual;2;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;6;Até 14 anos;6001;Federal;1;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;40381;Até 14 anos;6001;Municipal;3;Educação Básica;Educação de Jovens e Adultos - EJA
+Brasil;Brasil;;;;1392;Até 14 anos;6001;Privada;4;Educação Básica;Educação de Jovens e Adultos - EJA
